@@ -7,6 +7,7 @@ public class Test5 {
 		System.out.println("안녕 테스트5");
 		System.out.println("브랜치추가엽습2");
 		System.out.println("브랜치추가엽습3");
+		System.out.println("푸쉬되돌리기 연습");
 
 	}
 
